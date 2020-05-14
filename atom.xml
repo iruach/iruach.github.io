@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.k12on.com/"/>
+  <link href="https://iruach.github.io/"/>
   <updated>2020-05-14T06:48:27.442Z</updated>
-  <id>https://blog.k12on.com/</id>
+  <id>https://iruach.github.io/</id>
   
   <author>
     <name>极客冲浪</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="https://blog.k12on.com/post/manifest.html"/>
-    <id>https://blog.k12on.com/post/manifest.html</id>
+    <link href="https://iruach.github.io/post/manifest.html"/>
+    <id>https://iruach.github.io/post/manifest.html</id>
     <published>2020-05-14T06:48:27.442Z</published>
     <updated>2020-05-14T06:48:27.442Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>我的</title>
-    <link href="https://blog.k12on.com/post/%E6%88%91%E7%9A%84.html"/>
-    <id>https://blog.k12on.com/post/我的.html</id>
+    <link href="https://iruach.github.io/post/%E6%88%91%E7%9A%84.html"/>
+    <id>https://iruach.github.io/post/我的.html</id>
     <published>2020-05-12T12:35:42.000Z</published>
     <updated>2020-05-14T06:48:27.446Z</updated>
     
@@ -49,15 +49,15 @@
     
     </summary>
     
-      <category term="博客" scheme="https://blog.k12on.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://iruach.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
     
     
   </entry>
   
   <entry>
     <title>trojan一键安装</title>
-    <link href="https://blog.k12on.com/post/2020trojan%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85.html"/>
-    <id>https://blog.k12on.com/post/2020trojan一键安装.html</id>
+    <link href="https://iruach.github.io/post/2020trojan%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85.html"/>
+    <id>https://iruach.github.io/post/2020trojan一键安装.html</id>
     <published>2020-05-12T09:05:28.000Z</published>
     <updated>2020-05-14T06:48:27.437Z</updated>
     
@@ -72,17 +72,17 @@
     
     </summary>
     
-      <category term="科学上网" scheme="https://blog.k12on.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <category term="科学上网" scheme="https://iruach.github.io/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
     
-      <category term="trojan" scheme="https://blog.k12on.com/tags/trojan/"/>
+      <category term="trojan" scheme="https://iruach.github.io/tags/trojan/"/>
     
   </entry>
   
   <entry>
     <title>SSR客户端下载</title>
-    <link href="https://blog.k12on.com/post/SSR%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.html"/>
-    <id>https://blog.k12on.com/post/SSR客户端下载.html</id>
+    <link href="https://iruach.github.io/post/SSR%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8B%E8%BD%BD.html"/>
+    <id>https://iruach.github.io/post/SSR客户端下载.html</id>
     <published>2019-05-15T15:03:47.000Z</published>
     <updated>2020-05-14T06:48:27.438Z</updated>
     
@@ -97,17 +97,17 @@
     
     </summary>
     
-      <category term="科学上网" scheme="https://blog.k12on.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <category term="科学上网" scheme="https://iruach.github.io/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
     
-      <category term="SSR" scheme="https://blog.k12on.com/tags/SSR/"/>
+      <category term="SSR" scheme="https://iruach.github.io/tags/SSR/"/>
     
   </entry>
   
   <entry>
     <title>SSR免费节点2019</title>
-    <link href="https://blog.k12on.com/post/SSR%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B92019.html"/>
-    <id>https://blog.k12on.com/post/SSR免费节点2019.html</id>
+    <link href="https://iruach.github.io/post/SSR%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B92019.html"/>
+    <id>https://iruach.github.io/post/SSR免费节点2019.html</id>
     <published>2019-05-15T14:22:17.000Z</published>
     <updated>2020-05-14T06:48:27.438Z</updated>
     
@@ -124,17 +124,17 @@
     
     </summary>
     
-      <category term="科学上网" scheme="https://blog.k12on.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <category term="科学上网" scheme="https://iruach.github.io/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
     
-      <category term="SSR" scheme="https://blog.k12on.com/tags/SSR/"/>
+      <category term="SSR" scheme="https://iruach.github.io/tags/SSR/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://blog.k12on.com/post/hello-world.html"/>
-    <id>https://blog.k12on.com/post/hello-world.html</id>
+    <link href="https://iruach.github.io/post/hello-world.html"/>
+    <id>https://iruach.github.io/post/hello-world.html</id>
     <published>2019-05-12T12:35:42.000Z</published>
     <updated>2020-05-14T06:48:27.440Z</updated>
     
@@ -149,15 +149,15 @@
     
     </summary>
     
-      <category term="hexo" scheme="https://blog.k12on.com/categories/hexo/"/>
+      <category term="hexo" scheme="https://iruach.github.io/categories/hexo/"/>
     
     
   </entry>
   
   <entry>
     <title>vps搭建ss教程</title>
-    <link href="https://blog.k12on.com/post/vps%E6%90%AD%E5%BB%BAss%E6%95%99%E7%A8%8B.html"/>
-    <id>https://blog.k12on.com/post/vps搭建ss教程.html</id>
+    <link href="https://iruach.github.io/post/vps%E6%90%AD%E5%BB%BAss%E6%95%99%E7%A8%8B.html"/>
+    <id>https://iruach.github.io/post/vps搭建ss教程.html</id>
     <published>2018-12-25T08:01:33.000Z</published>
     <updated>2020-05-14T06:48:27.443Z</updated>
     
@@ -172,17 +172,17 @@
     
     </summary>
     
-      <category term="科学上网" scheme="https://blog.k12on.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+      <category term="科学上网" scheme="https://iruach.github.io/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
     
-      <category term="ss" scheme="https://blog.k12on.com/tags/ss/"/>
+      <category term="ss" scheme="https://iruach.github.io/tags/ss/"/>
     
   </entry>
   
   <entry>
     <title>App Store内购审核过程</title>
-    <link href="https://blog.k12on.com/post/%E5%86%85%E8%B4%AD.html"/>
-    <id>https://blog.k12on.com/post/内购.html</id>
+    <link href="https://iruach.github.io/post/%E5%86%85%E8%B4%AD.html"/>
+    <id>https://iruach.github.io/post/内购.html</id>
     <published>2018-12-25T07:47:47.000Z</published>
     <updated>2020-05-14T06:48:27.444Z</updated>
     
@@ -198,17 +198,42 @@
     
     </summary>
     
-      <category term="ios开发" scheme="https://blog.k12on.com/categories/ios%E5%BC%80%E5%8F%91/"/>
+      <category term="ios开发" scheme="https://iruach.github.io/categories/ios%E5%BC%80%E5%8F%91/"/>
     
     
-      <category term="内购审核" scheme="https://blog.k12on.com/tags/%E5%86%85%E8%B4%AD%E5%AE%A1%E6%A0%B8/"/>
+      <category term="内购审核" scheme="https://iruach.github.io/tags/%E5%86%85%E8%B4%AD%E5%AE%A1%E6%A0%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo快速上手</title>
+    <link href="https://iruach.github.io/post/hexo-%E5%BC%80%E5%A7%8B.html"/>
+    <id>https://iruach.github.io/post/hexo-开始.html</id>
+    <published>2018-11-26T02:18:42.000Z</published>
+    <updated>2020-05-14T06:48:27.441Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="指令"><a href="#指令" class="headerlink" title="指令"></a>指令</h2><h3 id="init"><a href="#init" class="headerlink" title="init"></a>init</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init [folder]</span><br></pre></td></tr></table></figure><p>新建一个网站。如果没有设置 folder ，Hexo 默认在目前的文件夹建立网站。</p><h3 id="new"><a href="#new" class="headerlink" title="new"></a>new</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><p>新建一篇文章。如果没有设置 layout 的话，默认使用 _config.yml 中的 default_layout 参数代替。如果标题包含空格的话，请使用引号括起来。</p><h3 id="generate"><a href="#generate" class="headerlink" title="generate"></a>generate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>生成静态文件。</p><p>选项    描述<br>-d, –deploy    文件生成后立即部署网站<br>-w, –watch    监视文件变动<br>该命令可以简写为</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><h3 id="publish"><a href="#publish" class="headerlink" title="publish"></a>publish</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo publish [layout] &lt;filename&gt;</span><br></pre></td></tr></table></figure><p>发表草稿。</p><h3 id="server"><a href="#server" class="headerlink" title="server"></a>server</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>启动服务器。默认情况下，访问网址为： <a href="http://localhost:4000/。" target="_blank" rel="noopener">http://localhost:4000/。</a></p><p>选项    描述<br>-p, –port    重设端口<br>-s, –static    只使用静态文件<br>-l, –log    启动日记记录，使用覆盖记录格式</p><h3 id="deploy"><a href="#deploy" class="headerlink" title="deploy"></a>deploy</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>部署网站。</p><p>参数    描述<br>-g, –generate    部署之前预先生成静态文件<br>该命令可以简写为：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo render &lt;file1&gt; [file2] ...</span><br></pre></td></tr></table></figure><p>渲染文件。</p><p>参数    描述<br>-o, –output    设置输出路径</p><h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo migrate &lt;type&gt;</span><br></pre></td></tr></table></figure><p>从其他博客系统 迁移内容。</p><h3 id="clean"><a href="#clean" class="headerlink" title="clean"></a>clean</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>清除缓存文件 (db.json) 和已生成的静态文件 (public)。</p><p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p><h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo list &lt;type&gt;</span><br></pre></td></tr></table></figure><p>列出网站资料。</p><h3 id="version"><a href="#version" class="headerlink" title="version"></a>version</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo version</span><br></pre></td></tr></table></figure><p>显示 Hexo 版本。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;指令&quot;&gt;&lt;a href=&quot;#指令&quot; class=&quot;headerlink&quot; title=&quot;指令&quot;&gt;&lt;/a&gt;指令&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h
+      
+    
+    </summary>
+    
+      <category term="Hexo教程" scheme="https://iruach.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="hexo" scheme="https://iruach.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Hexo分类和标签</title>
-    <link href="https://blog.k12on.com/post/Hexo%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE.html"/>
-    <id>https://blog.k12on.com/post/Hexo分类和标签.html</id>
+    <link href="https://iruach.github.io/post/Hexo%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE.html"/>
+    <id>https://iruach.github.io/post/Hexo分类和标签.html</id>
     <published>2018-11-26T02:18:42.000Z</published>
     <updated>2020-05-14T06:48:27.438Z</updated>
     
@@ -224,42 +249,17 @@
     
     </summary>
     
-      <category term="Hexo教程" scheme="https://blog.k12on.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+      <category term="Hexo教程" scheme="https://iruach.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="hexo" scheme="https://blog.k12on.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo快速上手</title>
-    <link href="https://blog.k12on.com/post/hexo-%E5%BC%80%E5%A7%8B.html"/>
-    <id>https://blog.k12on.com/post/hexo-开始.html</id>
-    <published>2018-11-26T02:18:42.000Z</published>
-    <updated>2020-05-14T06:48:27.441Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="指令"><a href="#指令" class="headerlink" title="指令"></a>指令</h2><h3 id="init"><a href="#init" class="headerlink" title="init"></a>init</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init [folder]</span><br></pre></td></tr></table></figure><p>新建一个网站。如果没有设置 folder ，Hexo 默认在目前的文件夹建立网站。</p><h3 id="new"><a href="#new" class="headerlink" title="new"></a>new</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><p>新建一篇文章。如果没有设置 layout 的话，默认使用 _config.yml 中的 default_layout 参数代替。如果标题包含空格的话，请使用引号括起来。</p><h3 id="generate"><a href="#generate" class="headerlink" title="generate"></a>generate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>生成静态文件。</p><p>选项    描述<br>-d, –deploy    文件生成后立即部署网站<br>-w, –watch    监视文件变动<br>该命令可以简写为</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><h3 id="publish"><a href="#publish" class="headerlink" title="publish"></a>publish</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo publish [layout] &lt;filename&gt;</span><br></pre></td></tr></table></figure><p>发表草稿。</p><h3 id="server"><a href="#server" class="headerlink" title="server"></a>server</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>启动服务器。默认情况下，访问网址为： <a href="http://localhost:4000/。" target="_blank" rel="noopener">http://localhost:4000/。</a></p><p>选项    描述<br>-p, –port    重设端口<br>-s, –static    只使用静态文件<br>-l, –log    启动日记记录，使用覆盖记录格式</p><h3 id="deploy"><a href="#deploy" class="headerlink" title="deploy"></a>deploy</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>部署网站。</p><p>参数    描述<br>-g, –generate    部署之前预先生成静态文件<br>该命令可以简写为：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo render &lt;file1&gt; [file2] ...</span><br></pre></td></tr></table></figure><p>渲染文件。</p><p>参数    描述<br>-o, –output    设置输出路径</p><h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo migrate &lt;type&gt;</span><br></pre></td></tr></table></figure><p>从其他博客系统 迁移内容。</p><h3 id="clean"><a href="#clean" class="headerlink" title="clean"></a>clean</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>清除缓存文件 (db.json) 和已生成的静态文件 (public)。</p><p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p><h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo list &lt;type&gt;</span><br></pre></td></tr></table></figure><p>列出网站资料。</p><h3 id="version"><a href="#version" class="headerlink" title="version"></a>version</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo version</span><br></pre></td></tr></table></figure><p>显示 Hexo 版本。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;指令&quot;&gt;&lt;a href=&quot;#指令&quot; class=&quot;headerlink&quot; title=&quot;指令&quot;&gt;&lt;/a&gt;指令&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h
-      
-    
-    </summary>
-    
-      <category term="Hexo教程" scheme="https://blog.k12on.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="hexo" scheme="https://blog.k12on.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://iruach.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>type</title>
-    <link href="https://blog.k12on.com/post/type-1.html"/>
-    <id>https://blog.k12on.com/post/type-1.html</id>
+    <link href="https://iruach.github.io/post/type-1.html"/>
+    <id>https://iruach.github.io/post/type-1.html</id>
     <published>2018-11-23T09:52:18.000Z</published>
     <updated>2020-05-14T06:48:27.442Z</updated>
     
@@ -272,8 +272,8 @@
   
   <entry>
     <title>我的新闻</title>
-    <link href="https://blog.k12on.com/post/type.html"/>
-    <id>https://blog.k12on.com/post/type.html</id>
+    <link href="https://iruach.github.io/post/type.html"/>
+    <id>https://iruach.github.io/post/type.html</id>
     <published>2018-11-23T09:47:03.000Z</published>
     <updated>2020-05-14T06:48:27.443Z</updated>
     
@@ -289,19 +289,19 @@
     
     </summary>
     
-      <category term="科技" scheme="https://blog.k12on.com/categories/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://iruach.github.io/categories/%E7%A7%91%E6%8A%80/"/>
     
     
-      <category term="科技" scheme="https://blog.k12on.com/tags/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://iruach.github.io/tags/%E7%A7%91%E6%8A%80/"/>
     
-      <category term="新闻" scheme="https://blog.k12on.com/tags/%E6%96%B0%E9%97%BB/"/>
+      <category term="新闻" scheme="https://iruach.github.io/tags/%E6%96%B0%E9%97%BB/"/>
     
   </entry>
   
   <entry>
     <title>常用软件</title>
-    <link href="https://blog.k12on.com/post/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6.html"/>
-    <id>https://blog.k12on.com/post/常用软件.html</id>
+    <link href="https://iruach.github.io/post/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6.html"/>
+    <id>https://iruach.github.io/post/常用软件.html</id>
     <published>2018-11-23T07:37:59.000Z</published>
     <updated>2020-05-14T06:48:27.445Z</updated>
     
@@ -317,17 +317,17 @@
     
     </summary>
     
-      <category term="软件" scheme="https://blog.k12on.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+      <category term="软件" scheme="https://iruach.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
     
     
-      <category term="software" scheme="https://blog.k12on.com/tags/software/"/>
+      <category term="software" scheme="https://iruach.github.io/tags/software/"/>
     
   </entry>
   
   <entry>
     <title>github pages+hexo 搭建博客</title>
-    <link href="https://blog.k12on.com/post/github-pages-hexo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"/>
-    <id>https://blog.k12on.com/post/github-pages-hexo-搭建博客.html</id>
+    <link href="https://iruach.github.io/post/github-pages-hexo-%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://iruach.github.io/post/github-pages-hexo-搭建博客.html</id>
     <published>2018-11-23T06:36:10.000Z</published>
     <updated>2020-05-14T06:48:27.440Z</updated>
     
@@ -344,17 +344,17 @@
     
     </summary>
     
-      <category term="Hexo教程" scheme="https://blog.k12on.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+      <category term="Hexo教程" scheme="https://iruach.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="hexo" scheme="https://blog.k12on.com/tags/hexo/"/>
+      <category term="hexo" scheme="https://iruach.github.io/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>Test</title>
-    <link href="https://blog.k12on.com/post/Test.html"/>
-    <id>https://blog.k12on.com/post/Test.html</id>
+    <link href="https://iruach.github.io/post/Test.html"/>
+    <id>https://iruach.github.io/post/Test.html</id>
     <published>2018-11-22T11:13:35.000Z</published>
     <updated>2020-05-14T06:48:27.439Z</updated>
     
@@ -372,16 +372,16 @@
     </summary>
     
     
-      <category term="科技" scheme="https://blog.k12on.com/tags/%E7%A7%91%E6%8A%80/"/>
+      <category term="科技" scheme="https://iruach.github.io/tags/%E7%A7%91%E6%8A%80/"/>
     
-      <category term="网页" scheme="https://blog.k12on.com/tags/%E7%BD%91%E9%A1%B5/"/>
+      <category term="网页" scheme="https://iruach.github.io/tags/%E7%BD%91%E9%A1%B5/"/>
     
   </entry>
   
   <entry>
     <title>友情链接</title>
-    <link href="https://blog.k12on.com/post/link.html"/>
-    <id>https://blog.k12on.com/post/link.html</id>
+    <link href="https://iruach.github.io/post/link.html"/>
+    <id>https://iruach.github.io/post/link.html</id>
     <published>2017-07-03T03:51:24.000Z</published>
     <updated>2020-05-14T06:48:27.442Z</updated>
     
@@ -394,14 +394,14 @@
     </summary>
     
     
-      <category term="友链" scheme="https://blog.k12on.com/tags/%E5%8F%8B%E9%93%BE/"/>
+      <category term="友链" scheme="https://iruach.github.io/tags/%E5%8F%8B%E9%93%BE/"/>
     
   </entry>
   
   <entry>
     <title>写博客</title>
-    <link href="https://blog.k12on.com/post/%E5%8D%9A%E5%AE%A2.html"/>
-    <id>https://blog.k12on.com/post/博客.html</id>
+    <link href="https://iruach.github.io/post/%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://iruach.github.io/post/博客.html</id>
     <published>2017-07-03T03:51:24.000Z</published>
     <updated>2020-05-14T06:48:27.445Z</updated>
     
@@ -414,34 +414,34 @@
     </summary>
     
     
-      <category term="关于我" scheme="https://blog.k12on.com/tags/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+      <category term="关于我" scheme="https://iruach.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
     
   </entry>
   
   <entry>
     <title>留言板</title>
-    <link href="https://blog.k12on.com/post/about.html"/>
-    <id>https://blog.k12on.com/post/about.html</id>
+    <link href="https://iruach.github.io/post/about.html"/>
+    <id>https://iruach.github.io/post/about.html</id>
     <published>2017-07-03T03:51:24.000Z</published>
-    <updated>2020-05-14T06:48:27.440Z</updated>
+    <updated>2020-05-14T07:15:29.570Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="本站介绍"><a href="#本站介绍" class="headerlink" title="本站介绍"></a>本站介绍</h2><p>晨星的小站，致力于分享一些技术教程和有趣的技术实践，主要以 Python 相关的技术为主。</p><p>对本站的任何问题都可以直接在文章下进行评论。</p><p>也可以通过<a href="mailto:gzdaijie@gmail.com" target="_blank" rel="noopener">gzdaijie@gmail.com</a>联系我。</p><p>为了节省双方的宝贵时间，作如下几点声明：</p><ul><li>邮件会尽量回复，不能做到有问必答。</li><li>请尽量在邮件中将需求或问题叙述清楚。</li></ul><h2 id="版权说明"><a href="#版权说明" class="headerlink" title="版权说明"></a>版权说明</h2><p>若无特别声明，本站文章欢迎链接分享，但禁止全文转载，本站保留一切权利。</p><h2 id="支持本站"><a href="#支持本站" class="headerlink" title="支持本站"></a>支持本站</h2><p>坚持探索、尝试新技术，并作总结并不是一件容易的事情，如能对您有所帮助，我感到非常高兴。</p><p>如果觉得本站文章还不错，欢迎收藏&amp;分享给小伙伴。</p><p>本站使用主题已开源在<a href="https://github.com/geektutu/hexo-theme-geektutu" target="_blank" rel="noopener">Github</a>，请不要吝惜您的Star！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="本站介绍"><a href="#本站介绍" class="headerlink" title="本站介绍"></a>本站介绍</h2><p>极客冲浪的小站，致力于分享一些技术教程和有趣的技术实践，主要以 Python 相关的技术为主。</p><p>对本站的任何问题都可以直接在文章下进行评论。</p><p>也可以通过<a href="mailto:v2raywall@gmail.com" target="_blank" rel="noopener">v2raywall@gmail.com</a>联系我。</p><p>为了节省双方的宝贵时间，作如下几点声明：</p><ul><li>邮件会尽量回复，不能做到有问必答。</li><li>请尽量在邮件中将需求或问题叙述清楚。</li></ul><h2 id="版权说明"><a href="#版权说明" class="headerlink" title="版权说明"></a>版权说明</h2><p>若无特别声明，本站文章欢迎链接分享，但禁止全文转载，本站保留一切权利。</p><h2 id="支持本站"><a href="#支持本站" class="headerlink" title="支持本站"></a>支持本站</h2><p>坚持探索、尝试新技术，并作总结并不是一件容易的事情，如能对您有所帮助，我感到非常高兴。</p><p>如果觉得本站文章还不错，欢迎收藏&amp;分享给小伙伴。</p><p>本站使用主题已开源在<a href="https://github.com/geektutu/hexo-theme-geektutu" target="_blank" rel="noopener">Github</a>，请不要吝惜您的Star！</p>]]></content>
     
     <summary type="html">
     
-      极客兔兔的小站，致力于分享一些技术教程和有趣的技术实践。
+      极客冲浪的小站，致力于分享一些技术教程和有趣的技术实践。
     
     </summary>
     
     
-      <category term="关于" scheme="https://blog.k12on.com/tags/%E5%85%B3%E4%BA%8E/"/>
+      <category term="关于" scheme="https://iruach.github.io/tags/%E5%85%B3%E4%BA%8E/"/>
     
   </entry>
   
   <entry>
     <title>hexo categories和tags页面不显示解决办法</title>
-    <link href="https://blog.k12on.com/post/hexo%20categories%E5%92%8Ctags%E9%A1%B5%E9%9D%A2%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.html"/>
-    <id>https://blog.k12on.com/post/hexo categories和tags页面不显示解决办法.html</id>
+    <link href="https://iruach.github.io/post/hexo%20categories%E5%92%8Ctags%E9%A1%B5%E9%9D%A2%E4%B8%8D%E6%98%BE%E7%A4%BA%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.html"/>
+    <id>https://iruach.github.io/post/hexo categories和tags页面不显示解决办法.html</id>
     <published>2016-06-01T15:47:44.000Z</published>
     <updated>2020-05-14T06:48:27.441Z</updated>
     
@@ -458,12 +458,12 @@
     
     </summary>
     
-      <category term="Hexo教程" scheme="https://blog.k12on.com/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+      <category term="Hexo教程" scheme="https://iruach.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="tags" scheme="https://blog.k12on.com/tags/tags/"/>
+      <category term="tags" scheme="https://iruach.github.io/tags/tags/"/>
     
-      <category term="categories" scheme="https://blog.k12on.com/tags/categories/"/>
+      <category term="categories" scheme="https://iruach.github.io/tags/categories/"/>
     
   </entry>
   
