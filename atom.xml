@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://iruach.github.io/"/>
-  <updated>2020-05-14T06:48:27.442Z</updated>
+  <updated>2020-05-14T06:48:27.446Z</updated>
   <id>https://iruach.github.io/</id>
   
   <author>
@@ -15,20 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://iruach.github.io/post/manifest.html"/>
-    <id>https://iruach.github.io/post/manifest.html</id>
-    <published>2020-05-14T06:48:27.442Z</published>
-    <updated>2020-05-14T06:48:27.442Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>我的</title>
@@ -206,31 +192,6 @@
   </entry>
   
   <entry>
-    <title>Hexo快速上手</title>
-    <link href="https://iruach.github.io/post/hexo-%E5%BC%80%E5%A7%8B.html"/>
-    <id>https://iruach.github.io/post/hexo-开始.html</id>
-    <published>2018-11-26T02:18:42.000Z</published>
-    <updated>2020-05-14T06:48:27.441Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="指令"><a href="#指令" class="headerlink" title="指令"></a>指令</h2><h3 id="init"><a href="#init" class="headerlink" title="init"></a>init</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init [folder]</span><br></pre></td></tr></table></figure><p>新建一个网站。如果没有设置 folder ，Hexo 默认在目前的文件夹建立网站。</p><h3 id="new"><a href="#new" class="headerlink" title="new"></a>new</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><p>新建一篇文章。如果没有设置 layout 的话，默认使用 _config.yml 中的 default_layout 参数代替。如果标题包含空格的话，请使用引号括起来。</p><h3 id="generate"><a href="#generate" class="headerlink" title="generate"></a>generate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>生成静态文件。</p><p>选项    描述<br>-d, –deploy    文件生成后立即部署网站<br>-w, –watch    监视文件变动<br>该命令可以简写为</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><h3 id="publish"><a href="#publish" class="headerlink" title="publish"></a>publish</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo publish [layout] &lt;filename&gt;</span><br></pre></td></tr></table></figure><p>发表草稿。</p><h3 id="server"><a href="#server" class="headerlink" title="server"></a>server</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>启动服务器。默认情况下，访问网址为： <a href="http://localhost:4000/。" target="_blank" rel="noopener">http://localhost:4000/。</a></p><p>选项    描述<br>-p, –port    重设端口<br>-s, –static    只使用静态文件<br>-l, –log    启动日记记录，使用覆盖记录格式</p><h3 id="deploy"><a href="#deploy" class="headerlink" title="deploy"></a>deploy</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>部署网站。</p><p>参数    描述<br>-g, –generate    部署之前预先生成静态文件<br>该命令可以简写为：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo render &lt;file1&gt; [file2] ...</span><br></pre></td></tr></table></figure><p>渲染文件。</p><p>参数    描述<br>-o, –output    设置输出路径</p><h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo migrate &lt;type&gt;</span><br></pre></td></tr></table></figure><p>从其他博客系统 迁移内容。</p><h3 id="clean"><a href="#clean" class="headerlink" title="clean"></a>clean</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>清除缓存文件 (db.json) 和已生成的静态文件 (public)。</p><p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p><h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo list &lt;type&gt;</span><br></pre></td></tr></table></figure><p>列出网站资料。</p><h3 id="version"><a href="#version" class="headerlink" title="version"></a>version</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo version</span><br></pre></td></tr></table></figure><p>显示 Hexo 版本。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;指令&quot;&gt;&lt;a href=&quot;#指令&quot; class=&quot;headerlink&quot; title=&quot;指令&quot;&gt;&lt;/a&gt;指令&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h
-      
-    
-    </summary>
-    
-      <category term="Hexo教程" scheme="https://iruach.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="hexo" scheme="https://iruach.github.io/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hexo分类和标签</title>
     <link href="https://iruach.github.io/post/Hexo%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE.html"/>
     <id>https://iruach.github.io/post/Hexo分类和标签.html</id>
@@ -245,6 +206,31 @@
       
         &lt;p&gt;hexo 新建一篇文章给它添加分类和标签:&lt;/p&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;t
+      
+    
+    </summary>
+    
+      <category term="Hexo教程" scheme="https://iruach.github.io/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="hexo" scheme="https://iruach.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo快速上手</title>
+    <link href="https://iruach.github.io/post/hexo-%E5%BC%80%E5%A7%8B.html"/>
+    <id>https://iruach.github.io/post/hexo-开始.html</id>
+    <published>2018-11-26T02:18:42.000Z</published>
+    <updated>2020-05-14T06:48:27.441Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="指令"><a href="#指令" class="headerlink" title="指令"></a>指令</h2><h3 id="init"><a href="#init" class="headerlink" title="init"></a>init</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo init [folder]</span><br></pre></td></tr></table></figure><p>新建一个网站。如果没有设置 folder ，Hexo 默认在目前的文件夹建立网站。</p><h3 id="new"><a href="#new" class="headerlink" title="new"></a>new</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><p>新建一篇文章。如果没有设置 layout 的话，默认使用 _config.yml 中的 default_layout 参数代替。如果标题包含空格的话，请使用引号括起来。</p><h3 id="generate"><a href="#generate" class="headerlink" title="generate"></a>generate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>生成静态文件。</p><p>选项    描述<br>-d, –deploy    文件生成后立即部署网站<br>-w, –watch    监视文件变动<br>该命令可以简写为</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><h3 id="publish"><a href="#publish" class="headerlink" title="publish"></a>publish</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo publish [layout] &lt;filename&gt;</span><br></pre></td></tr></table></figure><p>发表草稿。</p><h3 id="server"><a href="#server" class="headerlink" title="server"></a>server</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>启动服务器。默认情况下，访问网址为： <a href="http://localhost:4000/。" target="_blank" rel="noopener">http://localhost:4000/。</a></p><p>选项    描述<br>-p, –port    重设端口<br>-s, –static    只使用静态文件<br>-l, –log    启动日记记录，使用覆盖记录格式</p><h3 id="deploy"><a href="#deploy" class="headerlink" title="deploy"></a>deploy</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>部署网站。</p><p>参数    描述<br>-g, –generate    部署之前预先生成静态文件<br>该命令可以简写为：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><h3 id="render"><a href="#render" class="headerlink" title="render"></a>render</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo render &lt;file1&gt; [file2] ...</span><br></pre></td></tr></table></figure><p>渲染文件。</p><p>参数    描述<br>-o, –output    设置输出路径</p><h3 id="migrate"><a href="#migrate" class="headerlink" title="migrate"></a>migrate</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo migrate &lt;type&gt;</span><br></pre></td></tr></table></figure><p>从其他博客系统 迁移内容。</p><h3 id="clean"><a href="#clean" class="headerlink" title="clean"></a>clean</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><p>清除缓存文件 (db.json) 和已生成的静态文件 (public)。</p><p>在某些情况（尤其是更换主题后），如果发现您对站点的更改无论如何也不生效，您可能需要运行该命令。</p><h3 id="list"><a href="#list" class="headerlink" title="list"></a>list</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo list &lt;type&gt;</span><br></pre></td></tr></table></figure><p>列出网站资料。</p><h3 id="version"><a href="#version" class="headerlink" title="version"></a>version</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo version</span><br></pre></td></tr></table></figure><p>显示 Hexo 版本。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;指令&quot;&gt;&lt;a href=&quot;#指令&quot; class=&quot;headerlink&quot; title=&quot;指令&quot;&gt;&lt;/a&gt;指令&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot; title=&quot;init&quot;&gt;&lt;/a&gt;init&lt;/h
       
     
     </summary>
@@ -379,22 +365,22 @@
   </entry>
   
   <entry>
-    <title>写博客</title>
-    <link href="https://iruach.github.io/post/%E5%8D%9A%E5%AE%A2.html"/>
-    <id>https://iruach.github.io/post/博客.html</id>
+    <title>友情链接</title>
+    <link href="https://iruach.github.io/post/link.html"/>
+    <id>https://iruach.github.io/post/link.html</id>
     <published>2017-07-03T03:51:24.000Z</published>
-    <updated>2020-05-14T06:48:27.445Z</updated>
+    <updated>2020-05-14T06:48:27.442Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>··· 省略</p>]]></content>
+    <content type="html"><![CDATA[<style> article th:first-child { width: 140px; } </style><h2 id="互粉"><a href="#互粉" class="headerlink" title="互粉"></a>互粉</h2><table><thead><tr><th>名称</th><th>描述</th></tr></thead><tbody><tr><td><a href="https://blog.isoyu.com" target="_blank" rel="noopener">姬長信</a></td><td>致力为移动开发者提供资讯、问答、代码下载、工具库等服务</td></tr><tr><td><a href="https://mabbs.github.io" target="_blank" rel="noopener">Mayx的博客</a></td><td>Mayx’s Home Page</td></tr><tr><td><a href="https://wocai.de" target="_blank" rel="noopener">kok的笔记本</a></td><td>写一些杂七杂八的内容</td></tr><tr><td><a href="https://chinsyo.com" target="_blank" rel="noopener">Chinsyo|晨晓</a></td><td>一个工程师的迷思与随想</td></tr><tr><td><a href="https://panqiincs.me" target="_blank" rel="noopener">辛未羊的博客</a></td><td>人生如逆旅，我亦是行人</td></tr><tr><td><a href="http://hutusi.com" target="_blank" rel="noopener">hutusi</a></td><td>浪漫主义诗人</td></tr><tr><td><a href="https://hanxiatu.com" target="_blank" rel="noopener">寒夏汢</a></td><td>做一个有趣的人</td></tr><tr><td><a href="https://acme.top" target="_blank" rel="noopener">肆月之风</a></td><td>爱技术、爱分享</td></tr><tr><td><a href="https://iamazing.cn" target="_blank" rel="noopener">JustSong</a></td><td>计算机专业求学过程中的思考</td></tr><tr><td><a href="https://www.qtmuniao.com" target="_blank" rel="noopener">Muniao</a></td><td>摄影，技术，分布式</td></tr><tr><td><a href="https://itren.tech" target="_blank" rel="noopener">IT人技术博客</a></td><td>站点描述：记录所学、所感、所想</td></tr><tr><td><a href="https://wujunze.com" target="_blank" rel="noopener">wujunze blog</a></td><td>一个程序员的博客</td></tr><tr><td><a href="https://zhang0peter.com" target="_blank" rel="noopener">zhang0peter</a></td><td>记录学习与生活</td></tr><tr><td><a href="https://shockerli.net" target="_blank" rel="noopener">格物</a></td><td>做有进步的分享</td></tr></tbody></table><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p><strong>留言可以互换友链，先将本站添加为友链，再到评论区留言，一天内处理。</strong><br><strong>希望这篇文章<a href="https://geektutu.com/post/blog-experience-5.html" target="_blank" rel="noopener">《友链这件事，没那么简单》</a>对寻求友链的你有帮助。</strong></p><blockquote><p>本站文章均为原创，要求互换友链的你，也是原创博主。<br>拒绝和聚合站、采集站、转载站做朋友。<br>格式：<br>站点名称：极客兔兔<br>站点描述：致力于分享有趣的技术实践（30字左右，太长一行显示不下）<br>站点地址：<a href="https://geektutu.com" target="_blank" rel="noopener">https://geektutu.com</a><br>已加友链：<a href="https://geektutu.com/post/link.html" target="_blank" rel="noopener">https://geektutu.com/post/link.html</a></p></blockquote><br><br>]]></content>
     
     <summary type="html">
     
-      极客兔兔的小站，致力于分享一些技术教程和有趣的技术实践。
+      极客兔兔的友情链接
     
     </summary>
     
     
-      <category term="关于我" scheme="https://iruach.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+      <category term="友链" scheme="https://iruach.github.io/tags/%E5%8F%8B%E9%93%BE/"/>
     
   </entry>
   
@@ -419,22 +405,22 @@
   </entry>
   
   <entry>
-    <title>友情链接</title>
-    <link href="https://iruach.github.io/post/link.html"/>
-    <id>https://iruach.github.io/post/link.html</id>
+    <title>写博客</title>
+    <link href="https://iruach.github.io/post/%E5%8D%9A%E5%AE%A2.html"/>
+    <id>https://iruach.github.io/post/博客.html</id>
     <published>2017-07-03T03:51:24.000Z</published>
-    <updated>2020-05-14T06:48:27.442Z</updated>
+    <updated>2020-05-14T06:48:27.445Z</updated>
     
-    <content type="html"><![CDATA[<style> article th:first-child { width: 140px; } </style><h2 id="互粉"><a href="#互粉" class="headerlink" title="互粉"></a>互粉</h2><table><thead><tr><th>名称</th><th>描述</th></tr></thead><tbody><tr><td><a href="https://blog.isoyu.com" target="_blank" rel="noopener">姬長信</a></td><td>致力为移动开发者提供资讯、问答、代码下载、工具库等服务</td></tr><tr><td><a href="https://mabbs.github.io" target="_blank" rel="noopener">Mayx的博客</a></td><td>Mayx’s Home Page</td></tr><tr><td><a href="https://wocai.de" target="_blank" rel="noopener">kok的笔记本</a></td><td>写一些杂七杂八的内容</td></tr><tr><td><a href="https://chinsyo.com" target="_blank" rel="noopener">Chinsyo|晨晓</a></td><td>一个工程师的迷思与随想</td></tr><tr><td><a href="https://panqiincs.me" target="_blank" rel="noopener">辛未羊的博客</a></td><td>人生如逆旅，我亦是行人</td></tr><tr><td><a href="http://hutusi.com" target="_blank" rel="noopener">hutusi</a></td><td>浪漫主义诗人</td></tr><tr><td><a href="https://hanxiatu.com" target="_blank" rel="noopener">寒夏汢</a></td><td>做一个有趣的人</td></tr><tr><td><a href="https://acme.top" target="_blank" rel="noopener">肆月之风</a></td><td>爱技术、爱分享</td></tr><tr><td><a href="https://iamazing.cn" target="_blank" rel="noopener">JustSong</a></td><td>计算机专业求学过程中的思考</td></tr><tr><td><a href="https://www.qtmuniao.com" target="_blank" rel="noopener">Muniao</a></td><td>摄影，技术，分布式</td></tr><tr><td><a href="https://itren.tech" target="_blank" rel="noopener">IT人技术博客</a></td><td>站点描述：记录所学、所感、所想</td></tr><tr><td><a href="https://wujunze.com" target="_blank" rel="noopener">wujunze blog</a></td><td>一个程序员的博客</td></tr><tr><td><a href="https://zhang0peter.com" target="_blank" rel="noopener">zhang0peter</a></td><td>记录学习与生活</td></tr><tr><td><a href="https://shockerli.net" target="_blank" rel="noopener">格物</a></td><td>做有进步的分享</td></tr></tbody></table><h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p><strong>留言可以互换友链，先将本站添加为友链，再到评论区留言，一天内处理。</strong><br><strong>希望这篇文章<a href="https://geektutu.com/post/blog-experience-5.html" target="_blank" rel="noopener">《友链这件事，没那么简单》</a>对寻求友链的你有帮助。</strong></p><blockquote><p>本站文章均为原创，要求互换友链的你，也是原创博主。<br>拒绝和聚合站、采集站、转载站做朋友。<br>格式：<br>站点名称：极客兔兔<br>站点描述：致力于分享有趣的技术实践（30字左右，太长一行显示不下）<br>站点地址：<a href="https://geektutu.com" target="_blank" rel="noopener">https://geektutu.com</a><br>已加友链：<a href="https://geektutu.com/post/link.html" target="_blank" rel="noopener">https://geektutu.com/post/link.html</a></p></blockquote><br><br>]]></content>
+    <content type="html"><![CDATA[<h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>··· 省略</p>]]></content>
     
     <summary type="html">
     
-      极客兔兔的友情链接
+      极客兔兔的小站，致力于分享一些技术教程和有趣的技术实践。
     
     </summary>
     
     
-      <category term="友链" scheme="https://iruach.github.io/tags/%E5%8F%8B%E9%93%BE/"/>
+      <category term="关于我" scheme="https://iruach.github.io/tags/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
     
   </entry>
   
