@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2017-07-03 11:51:24
-description: 极客兔兔的友情链接
+description: 极客冲浪的友情链接
 tags:
 - 友链
 image: post/link/link.png
@@ -13,6 +13,7 @@ image: post/link/link.png
 
 | 名称  | 描述 |
 |---| ---|
+| [极客兔兔](https://geektutu.com/) | 极客兔兔的小站 |
 | [姬長信](https://blog.isoyu.com) | 致力为移动开发者提供资讯、问答、代码下载、工具库等服务 |
 | [Mayx的博客](https://mabbs.github.io) | Mayx’s Home Page |
 | [kok的笔记本](https://wocai.de) | 写一些杂七杂八的内容 |
