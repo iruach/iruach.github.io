@@ -3,12 +3,12 @@
 
 # Site
 title: 极客冲浪
-keyword: 晨星 ,晨星的博客,晨星的小站
-description: 晨星的小站，致力于分享一些技术教程和有趣的技术实践。
+keyword: 极客冲浪 ,极客冲浪的博客,极客冲浪的小站
+description: 极客冲浪的小站，致力于分享一些技术教程和有趣的技术实践。
 author: 极客冲浪
 language: zh-CN
 
-url: https://blog.k12on.com
+url: https://iruach.github.io
 root: /
 permalink: post/:title.html
 
@@ -33,7 +33,7 @@ theme: geektutu
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wandou911/wandou911.github.io.git
+  repo: git@iruach.github.com:iruach/iruach.github.io.git
   branch: master
 
 #gitalk:
