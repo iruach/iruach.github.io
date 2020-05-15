@@ -1,8 +1,8 @@
 ---
 title: vps搭建ss教程
-tags: [ss]
+tags: [SS]
 date: 2018-12-25 16:01:33
-categories: "科学上网"
+categories: "SS"
 ---
 
 ## 1 [搬瓦工搭建ss教程](https://github.com/wandou911/ss)

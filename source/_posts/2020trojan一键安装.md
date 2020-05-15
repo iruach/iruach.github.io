@@ -2,7 +2,7 @@
 title: trojan一键安装
 tags: [trojan]
 date: 2020-05-12 17:05:28
-categories: 科学上网
+categories: trojan
 ---
 
 # trojan 一键安装教程

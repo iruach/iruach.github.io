@@ -2,7 +2,7 @@
 title: SSR客户端下载
 tags: [SSR]
 date: 2019-05-15 23:03:47
-categories: "科学上网"
+categories: "SSR"
 ---
 
 ### Android 客户端

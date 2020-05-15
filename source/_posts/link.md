@@ -1,7 +1,7 @@
 ---
 title: 友情链接
 date: 2017-07-03 11:51:24
-description: 极客兔兔的友情链接
+description: 极客冲浪的友情链接
 tags:
 - 友链
 image: post/link/link.png
@@ -13,6 +13,7 @@ image: post/link/link.png
 
 | 名称  | 描述 |
 |---| ---|
+| [极客兔兔](https://geektutu.com/) | 极客兔兔的小站 |
 | [姬長信](https://blog.isoyu.com) | 致力为移动开发者提供资讯、问答、代码下载、工具库等服务 |
 | [Mayx的博客](https://mabbs.github.io) | Mayx’s Home Page |
 | [kok的笔记本](https://wocai.de) | 写一些杂七杂八的内容 |
@@ -27,19 +28,19 @@ image: post/link/link.png
 | [wujunze blog](https://wujunze.com) | 一个程序员的博客 |
 | [zhang0peter](https://zhang0peter.com) | 记录学习与生活 |
 | [格物](https://shockerli.net) | 做有进步的分享 |
+| [网络跳越](https://www.hijk.pw) | 分享网络技术 |
 
 ## 注意
 
 **留言可以互换友链，先将本站添加为友链，再到评论区留言，一天内处理。**
-**希望这篇文章[《友链这件事，没那么简单》](https://geektutu.com/post/blog-experience-5.html)对寻求友链的你有帮助。**
 
 > 本站文章均为原创，要求互换友链的你，也是原创博主。
 > 拒绝和聚合站、采集站、转载站做朋友。
 > 格式：
-> 站点名称：极客兔兔
+> 站点名称：极客冲浪
 > 站点描述：致力于分享有趣的技术实践（30字左右，太长一行显示不下）
-> 站点地址：https://geektutu.com
-> 已加友链：https://geektutu.com/post/link.html
+> 站点地址：https://iruach.github.io
+> 已加友链：https://iruach.github.io/post/link.html
 
 <br>
 <br>
