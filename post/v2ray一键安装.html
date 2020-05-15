@@ -14,17 +14,17 @@
   <!-- if page has tags, then add tags to keyword -->
   
   
-  <meta name="keywords" content="极客冲浪 ,极客冲浪的博客,极客冲浪的小站,software,">
+  <meta name="keywords" content="极客冲浪 ,极客冲浪的博客,极客冲浪的小站,v2ray,">
   <!-- page.description has higher priority -->
   <meta name="description" content="极客冲浪的小站，致力于分享一些技术教程和有趣的技术实践。">
   <link rel="shortcut icon" href="/img/icon.png">
   <title>
     
-    常用软件 | 极客冲浪
+    v2ray一键安装 | 极客冲浪
     
   </title>
 
-  <link rel="canonical" href="/post/常用软件.html">
+  <link rel="canonical" href="/post/v2ray一键安装.html">
   <link rel="stylesheet" href="/css/reset.css">
   <link rel="stylesheet" href="/css/layout.css">
   <link rel="stylesheet" href="/css/markdown.css">
@@ -104,7 +104,7 @@
                     
                 </li>
                 
-                <li class="gkt-cate-name float-left active">
+                <li class="gkt-cate-name float-left ">
                     <a class="float-left" href="/post/常用软件.html">软件</a>
                     
                 </li>
@@ -149,7 +149,7 @@
                     
                 </li>
                 
-                <li class="gkt-cate-name float-left ">
+                <li class="gkt-cate-name float-left active">
                     <a class="float-left" href="/post/v2ray一键安装.html">v2ray</a>
                     
                 </li>
@@ -191,25 +191,23 @@
 <div class="float-left post-container box-shadow">
     <div class="u-arrow-wrapper hidden-xs">
         
-        <a class="float-left" href="/post/github-pages-hexo-搭建博客.html"><i class="u-arrow-left"></i></a>
+        <a class="float-left" href="/post/我的.html"><i class="u-arrow-left"></i></a>
         
-        
-        <a class="float-right" href="/post/type.html"><i class="u-arrow-right"></i></a>
         
     </div>
     <article class="col-xs-12">
-        <h1> 常用软件 </h1>
+        <h1> v2ray一键安装 </h1>
 
         
 
         
         <div class="hidden-lg hidden-md series_links">
-            <p> <strong> 软件系列文章链接：</strong></p>
+            <p> <strong> v2ray系列文章链接：</strong></p>
             <ul>
                 
                 <li>
-                    <a href="/post/常用软件.html">常用软件</a>
-                    <span class="post-item-date">(Nov 23, 2018)</span>
+                    <a href="/post/v2ray一键安装.html">v2ray一键安装</a>
+                    <span class="post-item-date">(May 15, 2020)</span>
                 </li>
                 
             </ul>
@@ -217,7 +215,61 @@
         
         
         
-        <p><a href="http://www.cydiaimpactor.com" target="_blank" rel="noopener">Cydia Impactor</a></p>
+        <h2 id="科学上网工具-V2Ray-简介及具体搭建流程"><a href="#科学上网工具-V2Ray-简介及具体搭建流程" class="headerlink" title="科学上网工具 V2Ray 简介及具体搭建流程"></a>科学上网工具 V2Ray 简介及具体搭建流程</h2><h3 id="关于V2Ray"><a href="#关于V2Ray" class="headerlink" title="关于V2Ray"></a>关于V2Ray</h3><p>V2Ray是一个功能类似于Shadowsocks的代理工具，可以帮我们实现科学上网，支持 Socks、HTTP、Shadowsocks、VMess 等协议。</p>
+<h3 id="V2Ray与Shadowsocks有什么区别"><a href="#V2Ray与Shadowsocks有什么区别" class="headerlink" title="V2Ray与Shadowsocks有什么区别"></a>V2Ray与Shadowsocks有什么区别</h3><ul>
+<li>1.开发时间晚于Shadowsocks，功能更为强大，目前仍在维护更新。</li>
+<li>2.使用自主VMess协议，不易被墙屏蔽。</li>
+<li>3.网络传输效率更高，并且具有Mux多路复用功能，并发性能强</li>
+<li>4.自带mKCP协议，可免去KCPTUN的安装。</li>
+<li>5.可设置流量伪装，类似ShadowSocksR的混淆功能。</li>
+<li>6.目前比较小众，被封锁的可能性较小。</li>
+</ul>
+<h3 id="V2Ray的缺点："><a href="#V2Ray的缺点：" class="headerlink" title="V2Ray的缺点："></a>V2Ray的缺点：</h3><p>1.目前SSR科学上网仍是主流，V2Ray的教程不多，上手稍慢。<br>2.因为功能强大，所有需要设置的参数稍多，不过已经有图形化界面了，设置并不复杂。</p>
+<h3 id="搭建V2Ray所需条件"><a href="#搭建V2Ray所需条件" class="headerlink" title="搭建V2Ray所需条件"></a>搭建V2Ray所需条件</h3><p>其实搭建V2Ray的条件与SSR所需条件基本一致，并没有太特殊的。</p>
+<p>V2Ray也是需要在国外VPS服务器上安装服务端，然后在本地设备上安装V2Ray客户端，设置好后客户端成功连接服务端就可以。</p>
+<p>所以V2Ray的搭建流程：</p>
+<ul>
+<li>购买一台国外VPS服务器。</li>
+<li>一键安装V2Ray服务端。</li>
+<li>在本地设备安装V2Ray客户端</li>
+<li>连接成功。</li>
+</ul>
+<p>下面我们分别介绍。</p>
+<p>1.V2Ray服务器购买</p>
+<p>之前在SSR的相关教程里，我们介绍过，国外VPS服务器并不贵，512M内存的VPS就够用了，平均每月大概十几块钱，相当于一碗面钱，可以用支付宝付美元，与日常网购区别不大。</p>
+<p>用哪家的服务器，怎么购买</p>
+<p><a href="https://bandwagonhost.com/aff.php?aff=19935" target="_blank" rel="noopener">搬瓦工</a> 或 <a href="https://www.vultr.com/?ref=7887711-4F" target="_blank" rel="noopener">Vultr</a> </p>
+<p>2.在VPS服务器上安装V2Ray</p>
+<p>2.1 Putty连接VPS服务器，复制以下命令输入开始安装：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wget -N --no-check-certificate https://raw.githubusercontent.com/FunctionClub/V2ray.Fun/master/install.sh &amp;&amp; bash install.sh</span><br></pre></td></tr></table></figure>
+
+<p>如果运行以上命令时，出现找不到wget的英文提示，则表示系统没有安装wget，根据系统不同，选择以下命令安装：</p>
+<p><code>yum -y install wget</code></p>
+<p>2.2 V2Ray安装接近完成时，会提示输入用户名、密码、控制面板端口，可随意设置，如下图：</p>
+<p>访问控制面板需要用这个端口，用户名和密码用于登录控制面板。</p>
+<p><img src="https://ssr.tools/wp-content/uploads/2018-07-26_183309.jpg" alt></p>
+<p>2.3 正常来说，V2Ray已经安装成功了，可以尝试在浏览器打开控制面板地址。不过博主在这一步后无法打开V2Ray控制面板，可能是个例，保险起见，再复制以下命令运行：</p>
+<p><code>pip install Flask-BasicAuth</code></p>
+<p>2.4 以上命令运行完成后，我们再启动面板。Putty输入以下命令，然后选择1回车。如下图，提示V2ray.fun started，即表示启动成功。</p>
+<p><img src="https://ssr.tools/wp-content/uploads/2018-07-26_183519.jpg" alt></p>
+<p>5.浏览器输入服务器IP+刚才设置的端口，访问V2Ray控制面板，输入用户名和密码登录，登录成功后的界面如下图所示：</p>
+<p><img src="https://ssr.tools/wp-content/uploads/2018-07-26_194039.jpg" alt></p>
+<p>各项连接参数都显示在运行状态菜单。最下面的Vmess链接和二维码图片，都可以用于客户端连接。</p>
+<h3 id="V2Ray控制面板设置"><a href="#V2Ray控制面板设置" class="headerlink" title="V2Ray控制面板设置"></a>V2Ray控制面板设置</h3><p>V2Ray.fun控制面板的修改连接菜单中，我们可以修改各项连接参数，如下图所示</p>
+<ul>
+<li>运行控制：用于控制V2Ray的状态。</li>
+<li>UUID：用于客户端连接使用，默认是自动生成的，可以点击右侧按钮生成一个新的。</li>
+<li>主端口：用于客户端连接的端口，可设置一个新的端口，然后点击右侧的修改端口进行修改。</li>
+<li>加密方式：用于客户端连接的参数，不懂的话，默认即可。</li>
+<li>传输方式：也是客户端连接参数之一，默认即可。</li>
+<li>TLS：不建议开启，默认是关闭的，右侧两个按钮是操作按钮，并非表示当前状态。</li>
+<li>Mux cool：多路复用功能，可提高并发连接性能，默认开启</li>
+</ul>
+<p>以上各项参数设置完成后，就可以通过V2Ray客户端连接了。点击上图左侧的运行状态菜单，用V2Ray客户端扫描二维码即可连接，或者输入Vmess链接也可以</p>
+<p>V2Ray各客户端下载、安装及使用教程可参考：</p>
+<p><a href="https://ssr.tools/314" target="_blank" rel="noopener">V2Ray各平台客户端下载汇总 带图形化界面</a></p>
+<p>参考链接：</p>
+<p><a href="https://ssr.tools/269" target="_blank" rel="noopener">V2Ray一键安装脚本 自带图形化界面控制面板</a></p>
 
         <script src="/js/qrious.min.js"></script>
 
@@ -227,20 +279,20 @@
             <p>
                 <span>专题: </span>
                 
-                <a href="/series/#软件">
-                    <code key="软件" class="post-label">软件</code>
+                <a href="/series/#v2ray">
+                    <code key="v2ray" class="post-label">v2ray</code>
                 </a>
                 
             </p>
             
             <p>
-                <span>本文发表于 2018-11-23，最后修改于 2020-05-14。</span>
+                <span>本文发表于 2020-05-15，最后修改于 2020-05-15。</span>
             </p>
             <!-- 文章末尾的提示 start -->
             
             <p>
                 本站永久域名<strong>「 <a
-                        href="/post/常用软件.html">iruach.github.io</a>
+                        href="/post/v2ray一键安装.html">iruach.github.io</a>
                     」</strong>，也可搜索<strong>「 极客冲浪 」</strong>找到我。
             </p>
             
@@ -259,10 +311,8 @@
         <hr />
         <p name="pagination" style="font-size: 1.2em">
     
-    <a class="float-left" href="/post/github-pages-hexo-搭建博客.html">上一篇 « github pages+hexo 搭建博客</a>
+    <a class="float-left" href="/post/我的.html">上一篇 « 我的</a>
     
-    
-    <a class="float-right" href="/post/type.html">下一篇 » 我的新闻</a>
     
 </p>
     </article>
@@ -446,20 +496,20 @@
                 
                 <span>/</span>
                 
-                <a class="text-gray" href="/tags/#software"
-                    title="software">software</a>
+                <a class="text-gray" href="/tags/#hexo"
+                    title="hexo">hexo</a>
                 <span>/</span>
                 
                 
             </div>
-            <a href="/post/常用软件.html" class="title">
-                常用软件
+            <a href="/post/Hexo分类和标签.html" class="title">
+                Hexo分类和标签
             </a>
             <p class="text-gray">
                 <small>
-                    <span>发表于2018-11-23，</span>
-                    <span class="hidden-xs">全文133字，</span>
-                    <span>阅读约1分钟</span>
+                    <span>发表于2018-11-26，</span>
+                    <span class="hidden-xs">全文325字，</span>
+                    <span>阅读约2分钟</span>
                 </small>
             </p>
         </div>
@@ -467,7 +517,7 @@
 </div>
         
         <div class="post-preview">
-    <div class="post-img" style="background-image: url('/undefined')"></div>
+    <div class="post-img" style="background-image: url('/post/link/link.png')"></div>
     <div class="post-info">
         <div class="post-info-center">
             <div class="hidden-xs">
@@ -475,20 +525,20 @@
                 
                 <span>/</span>
                 
-                <a class="text-gray" href="/tags/#hexo"
-                    title="hexo">hexo</a>
+                <a class="text-gray" href="/tags/#友链"
+                    title="友链">友链</a>
                 <span>/</span>
                 
                 
             </div>
-            <a href="/post/github-pages-hexo-搭建博客.html" class="title">
-                github pages+hexo 搭建博客
+            <a href="/post/link.html" class="title">
+                友情链接
             </a>
             <p class="text-gray">
                 <small>
-                    <span>发表于2018-11-23，</span>
-                    <span class="hidden-xs">全文5781字，</span>
-                    <span>阅读约20分钟</span>
+                    <span>发表于2017-07-03，</span>
+                    <span class="hidden-xs">全文1215字，</span>
+                    <span>阅读约5分钟</span>
                 </small>
             </p>
         </div>
@@ -657,16 +707,18 @@
         
         
         <section class="gkt-sidebar-content box-shadow">
-            <strong>软件</strong>
+            <strong>v2ray</strong>
             <ul>
                 
                 <li>
-                    <a href="/post/常用软件.html"
-                        class="gkt-sidebar-active">常用软件</a>
+                    <a href="/post/v2ray一键安装.html"
+                        class="gkt-sidebar-active">v2ray一键安装</a>
                     
                     <!-- Table of Contents -->
 <div id="sidebar-toc">
   <!-- TOC  -->
+  
+  <ol class="toc-nav"><li class="toc-nav-item toc-nav-level-2"><a class="toc-nav-link" href="#科学上网工具-V2Ray-简介及具体搭建流程"><span class="toc-nav-text">科学上网工具 V2Ray 简介及具体搭建流程</span></a></li></ol>
   
 </div>
 
